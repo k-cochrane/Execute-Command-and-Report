@@ -12,4 +12,4 @@ Add ability to specify your email and password as parameters.
 
 # Disclaimer
 
-To make this atack work you would need to figure out a delivery method, which I am not providing. Please use this code ethically. 
+To make this kind of attack work you would need to figure out a delivery method, which I am not providing. Please use this code ethically. 
