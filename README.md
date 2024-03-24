@@ -1,4 +1,4 @@
-# StealthReport
+# Stealth Report
 
 A simple script that will allow you to execute a command on a target machine, and have the results emailed to your specified email address.
 
